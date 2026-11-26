@@ -1,0 +1,2 @@
+user = "exampletnzrghmmx7a0lzq4ydntc97akyoozg\m.muhamedmamedov"
+password = "testirovanie"
